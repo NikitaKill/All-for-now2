@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(440,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(440,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(441,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(441,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(442,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(442,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(634): warning C4715: ReadColor: значение возвращается не при всех путях выполнения
+C:\Users\Не кит\Desktop\ООП\втарая\втарая\Source.cpp(784): warning C4715: ReadGenre: значение возвращается не при всех путях выполнения
+  втарая.vcxproj -> C:\Users\Не кит\Desktop\ООП\втарая\x64\Debug\втарая.exe

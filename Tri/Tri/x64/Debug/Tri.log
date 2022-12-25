@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Не кит\Desktop\ООП\Tri\Tri\SongAlbum.h(186,67): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Не кит\Desktop\ООП\Tri\Tri\Source.cpp(229,17): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Не кит\Desktop\ООП\Tri\Tri\Source.cpp(230,17): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Не кит\Desktop\ООП\Tri\Tri\Source.cpp(235,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Не кит\Desktop\ООП\Tri\Tri\SongAlbum.h(192): warning C4715: Band::FindAlbum: значение возвращается не при всех путях выполнения
+  Tri.vcxproj -> C:\Users\Не кит\Desktop\ООП\Tri\x64\Debug\Tri.exe
